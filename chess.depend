@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1546286943 source:e:\’Ê— Œ«’Â\»Â«¡\programs\chess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	"load.h"
+
+1546287305 e:\’Ê— Œ«’Â\»Â«¡\programs\chess\load.h
+
+1546286943 source:e:\mine\programs\c&&c++\chess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	"load.h"
+
+1546287305 e:\mine\programs\c&&c++\chess\load.h
+
